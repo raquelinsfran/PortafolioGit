@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: blueviolet;
+    background-color: aquamarine;
+    text-decoration: underline;
+    justify-content: center;
+    text-align: center;
+}
+
+p{
+    color: palevioletred;
+    background-color: bisque;
+    text-align: center;
+}
